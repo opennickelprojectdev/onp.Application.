@@ -13,12 +13,12 @@ lifecycle:
     commands:
     - bash lifecycle/upgrade.sh
 metadata:
-  organisation-id: onp
+  organisation-id: e6
   pattern-categories:
   - Application
   pattern-description: Execute and manage the business logic by utilizing key classes
     or servers such as transaction processes, core API services, batch job server,
     and reporting workers.
-  pattern-id: onp.Application.
-  pattern-name: 'Application '
+  pattern-id: onp.e6.application.coreapis
+  pattern-name: e6.application.coreapis
   pattern-version: 1.0.0
